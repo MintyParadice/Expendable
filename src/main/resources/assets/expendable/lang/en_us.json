@@ -1,0 +1,13 @@
+{
+  "itemGroup.expendable": "Core",
+  "block.expendable.example_block": "Example Block",
+  "item.expendable.example_item": "Example Item",
+
+  "expendable.configuration.title": "Example Mod Configs",
+  "expendable.configuration.section.expendable.common.toml": "Example Mod Configs",
+  "expendable.configuration.section.expendable.common.toml.title": "Example Mod Configs",
+  "expendable.configuration.items": "Item List",
+  "expendable.configuration.logDirtBlock": "Log Dirt Block",
+  "expendable.configuration.magicNumberIntroduction": "Magic Number Text",
+  "expendable.configuration.magicNumber": "Magic Number"
+}

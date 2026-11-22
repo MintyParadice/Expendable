@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package net.mintyparadice.expendable;
 
 import java.util.List;
 import java.util.Set;
