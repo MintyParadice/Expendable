@@ -1,7 +1,7 @@
 {
   "itemGroup.expendable": "Core",
-  "block.expendable.example_block": "Example Block",
-  "item.expendable.example_item": "Example Item",
+  "block.expendable.felshale_block": "Felshale",
+  "item.expendable.felshale": "Felshale Chunk",
 
   "expendable.configuration.title": "Example Mod Configs",
   "expendable.configuration.section.expendable.common.toml": "Example Mod Configs",
