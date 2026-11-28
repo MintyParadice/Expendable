@@ -1,6 +1,7 @@
 {
   "itemGroup.expendable": "Core",
   "block.expendable.felshale_block": "Felshale",
+  "block.expendable.iron_plating": "Iron Plating",
   "item.expendable.felshale": "Felshale Chunk",
 
   "expendable.configuration.title": "Example Mod Configs",

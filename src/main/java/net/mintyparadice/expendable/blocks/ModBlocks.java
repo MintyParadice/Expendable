@@ -25,6 +25,12 @@ public class ModBlocks {
                     .requiresCorrectToolForDrops()
                     .sound(SoundType.STONE)
                     .mapColor(MapColor.COLOR_BLACK)));
+    public static final DeferredBlock<Block> IRON_PLATING = registerBlock("iron_plating",
+            () -> new Block(BlockBehaviour.Properties.of()
+                    .strength(4f)
+                    .requiresCorrectToolForDrops()
+                    .sound(SoundType.METAL)
+                    .mapColor(MapColor.TERRACOTTA_WHITE)));
 
 
 
