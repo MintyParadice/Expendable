@@ -70,6 +70,7 @@ public class Expendable {
         }
         if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS){
             event.accept(ModBlocks.FELSHALE_BLOCK);
+            event.accept(ModBlocks.IRON_PLATING);
         }
     }
 
